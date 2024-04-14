@@ -1,0 +1,98 @@
+[
+    {
+        "bookId": 9781234567890,
+        "bookName": "Shadows of the Past",
+        "author": "Elena Blackwood",
+        "image": "https://i.ibb.co/VVB8DKC/th.jpg",
+        "review": "A gripping tale of mystery and redemption.",
+        "totalPages": 320,
+        "rating": 4.5,
+        "category": "Mystery",
+        "tags": [
+            "Suspense",
+            "Psychological"
+        ],
+        "publisher": "Midnight Press",
+        "yearOfPublishing": 2023
+    },
+    {
+        "bookId": 9780987654321,
+        "bookName": "Echoes of Silence",
+        "author": "Alexander Frost",
+        "image": "https://i.ibb.co/mtNZ07d/OIP.jpg",
+        "review": "A haunting exploration of loss and identity.",
+        "totalPages": 280,
+        "rating": 4.2,
+        "category": "Literary Fiction",
+        "tags": [
+            "Drama",
+            "Family"
+        ],
+        "publisher": "Aurora Books",
+        "yearOfPublishing": 2022
+    },
+    {
+        "bookId": 9785678912345,
+        "bookName": "Beyond the Horizon",
+        "author": "Isabel Rivers",
+        "image": "https://i.ibb.co/6tQSVvR/OIP-1.jpge",
+        "review": "An epic journey of discovery and courage.",
+        "totalPages": 400,
+        "rating": 4.8,
+        "category": "Adventure",
+        "tags": [
+            "Fantasy",
+            "Quest"
+        ],
+        "publisher": "Wanderlust Publications",
+        "yearOfPublishing": 2024
+    },
+    {
+        "bookId": 9783456789123,
+        "bookName": "Whispers in the Dark",
+        "author": "Lucas Nightingale",
+        "image": "https://example.com/whispers.jpg",
+        "review": "A chilling thriller that will keep you on edge.",
+        "totalPages": 360,
+        "rating": 4.6,
+        "category": "Thriller",
+        "tags": [
+            "Suspense",
+            "Crime"
+        ],
+        "publisher": "Dark Alley Books",
+        "yearOfPublishing": 2023
+    },
+    {
+        "bookId": 9786789123456,
+        "bookName": "Serenade of Stars",
+        "author": "Aria Sky",
+        "image": "https://example.com/serenade.jpg",
+        "review": "A mesmerizing tale set in the cosmos.",
+        "totalPages": 240,
+        "rating": 4.4,
+        "category": "Science Fiction",
+        "tags": [
+            "Space Opera",
+            "Aliens"
+        ],
+        "publisher": "Stellar Publishing",
+        "yearOfPublishing": 2022
+    },
+    {
+        "bookId": 9782345678912,
+        "bookName": "Whispers of the Past",
+        "author": "Olivia Nightingale",
+        "image": "https://example.com/whispers2.jpg",
+        "review": "A haunting tale of love and loss across time.",
+        "totalPages": 300,
+        "rating": 4.7,
+        "category": "Romance",
+        "tags": [
+            "Historical",
+            "Time Travel"
+        ],
+        "publisher": "Timeless Romance Books",
+        "yearOfPublishing": 2024
+    }
+]

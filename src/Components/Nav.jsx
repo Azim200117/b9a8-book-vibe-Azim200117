@@ -14,8 +14,8 @@ const Nav = () => {
                         </div>
                         <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 text-[16px] font-semibold">
                             <NavLink to="/" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5' : 'font-bold mr-5'}><a>Home</a></NavLink>
-                            <NavLink to="/listedbooks" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ml-5' : 'font-bold mr-5'}><a>Listed Books</a></NavLink>
-                            <NavLink to="/pagestoread" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ml-5' : 'font-bold mr-5'}><a>Pages To Read</a></NavLink>
+                            <NavLink to="/listedbooks" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ' : 'font-bold mr-5'}><a>Listed Books</a></NavLink>
+                            <NavLink to="/pagestoread" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ' : 'font-bold mr-5'}><a>Pages To Read</a></NavLink>
                         </ul>
                     </div>
                     <Link to="/" className="btn btn-ghost text-[27px] font-bold">BookVibe</Link>
@@ -23,8 +23,8 @@ const Nav = () => {
                 <div className="navbar-center  hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 text-[16px] font-semibold">
                         <NavLink to="/" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5' : 'font-bold mr-5'}>Home</NavLink>
-                        <NavLink to="/listedbooks" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ml-5' : 'font-bold mr-5'}>Listed Books</NavLink>
-                        <NavLink to="/pagestoread" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ml-5' : 'font-bold mr-5'}>Pages To Read</NavLink>
+                        <NavLink to="/listedbooks" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ' : 'font-bold mr-5'}>Listed Books</NavLink>
+                        <NavLink to="/pagestoread" className={({ isActive }) => isActive ? 'text-[#23BE0A] mr-5 ' : 'font-bold mr-5'}>Pages To Read</NavLink>
                     </ul>
                 </div>
                 <div className="navbar-end mr-5">
